@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-bit&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-bit" /> </p>
 
-- 💬 Ask me about **React, Angular, Next, JS, Node JS**
+- 💬 Ask me about **React, Next, JS, Node JS**
 
 - 📫 How to reach me **shahzadashoaib078@gmail.com**
 
